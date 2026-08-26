@@ -1,7 +1,7 @@
 {
-  "version": "0.5.36",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.36/hchub-0.5.36.zip",
-  "notes": "Auto-update: grava em PluginData + watcher abre Terminal se openPath falhar.",
+  "version": "0.5.37",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.37/hchub-0.5.37.zip",
+  "notes": "Mac: auto-update usa watcher + run-update-mac.command (corrige .bat errado).",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-26"
 }
