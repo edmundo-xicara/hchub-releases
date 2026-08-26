@@ -1,7 +1,7 @@
 {
-  "version": "0.5.32",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.32/hchub-0.5.32.zip",
-  "notes": "Corrige auto-update no UXP (path.join) e checagem de versão com cache-bust.",
+  "version": "0.5.33",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.33/hchub-0.5.33.zip",
+  "notes": "CutPilot: descrição de atalhos inclui Ctrl e Shift.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-26"
 }
