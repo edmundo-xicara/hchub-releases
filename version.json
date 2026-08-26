@@ -1,7 +1,7 @@
 {
-  "version": "0.5.33",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.33/hchub-0.5.33.zip",
-  "notes": "CutPilot: descrição de atalhos inclui Ctrl e Shift.",
+  "version": "0.5.34",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.34/hchub-0.5.34.zip",
+  "notes": "Corrige cache da checagem de atualização (jsDelivr + TTL curto). CutPilot: Ctrl/Shift na descrição.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-26"
 }
