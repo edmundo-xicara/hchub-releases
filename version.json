@@ -1,7 +1,7 @@
 {
-  "version": "0.5.30",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.30/hchub-0.5.30.zip",
-  "notes": "Plate Blur: remove subtítulo técnico do painel.",
+  "version": "0.5.31",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.31/hchub-0.5.31.zip",
+  "notes": "Corrige checagem de atualização (cache do CDN) e Plate Blur sem subtítulo técnico.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-26"
 }
