@@ -1,7 +1,7 @@
 {
-  "version": "0.5.52",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.52/hchub-0.5.52.zip",
-  "notes": "Force-quit ok; fecha automaticamente a janela Adobe Crash Reporter (Não enviar).",
+  "version": "0.5.53",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.53/hchub-0.5.53.zip",
+  "notes": "Janela de progresso abre já em “Fechando Premiere…”; instala só depois.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
