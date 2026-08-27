@@ -1,7 +1,7 @@
 {
-  "version": "0.5.54",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.54/hchub-0.5.54.zip",
-  "notes": "Janela de atualização fica sempre à frente enquanto o Premiere fecha.",
+  "version": "0.5.55",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.55/hchub-0.5.55.zip",
+  "notes": "Atalhos laranja no Hub e efeitos de áudio do CutPilot no clipe selecionado.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
