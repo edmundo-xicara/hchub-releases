@@ -1,7 +1,7 @@
 {
-  "version": "0.5.45",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.45/hchub-0.5.45.zip",
-  "notes": "Fecha o Premiere com mais calma no atualizar/reverter e evita a janela falsa de crash.",
+  "version": "0.5.46",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.46/hchub-0.5.46.zip",
+  "notes": "Atualizar e Reverter: mesma lógica; não faz downgrade do updater; fecha Premiere sem crash falso.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
