@@ -1,7 +1,7 @@
 {
-  "version": "0.5.49",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.49/hchub-0.5.49.zip",
-  "notes": "Plate Blur: mais espaço abaixo do título; Sidecar e IP na mesma linha.",
+  "version": "0.5.50",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.50/hchub-0.5.50.zip",
+  "notes": "Fecha Premiere antes da janela de progresso (corrige Reverter que parecia não fechar).",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
