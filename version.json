@@ -1,7 +1,7 @@
 {
-  "version": "0.5.48",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.48/hchub-0.5.48.zip",
-  "notes": "Volta a fechar o Premiere sozinho no atualizar/reverter (force rápido + fecha crash falso).",
+  "version": "0.5.49",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.49/hchub-0.5.49.zip",
+  "notes": "Plate Blur: mais espaço abaixo do título; Sidecar e IP na mesma linha.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
