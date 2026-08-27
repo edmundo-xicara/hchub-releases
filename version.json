@@ -1,7 +1,7 @@
 {
-  "version": "0.5.39",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.39/hchub-0.5.39.zip",
-  "notes": "Auto-update com janela de progresso; fecha Premiere sozinho no passo UXP; sem rebuild pesado do venv.",
+  "version": "0.5.40",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.40/hchub-0.5.40.zip",
+  "notes": "Textos do sidecar em minúscula (testar conexão); correções de auto-update e progresso.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
