@@ -1,7 +1,7 @@
 {
-  "version": "0.5.46",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.46/hchub-0.5.46.zip",
-  "notes": "Atualizar e Reverter: mesma lógica; não faz downgrade do updater; fecha Premiere sem crash falso.",
+  "version": "0.5.47",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.47/hchub-0.5.47.zip",
+  "notes": "Corrige HC Hub sumindo após atualizar/reverter (PluginsInfo desalinhado + UPIA -418).",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
