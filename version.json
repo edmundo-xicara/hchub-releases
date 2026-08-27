@@ -1,7 +1,7 @@
 {
-  "version": "0.5.50",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.50/hchub-0.5.50.zip",
-  "notes": "Fecha Premiere antes da janela de progresso (corrige Reverter que parecia não fechar).",
+  "version": "0.5.51",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.51/hchub-0.5.51.zip",
+  "notes": "Fecha Premiere sem janela falsa de crash (quit saving no, sem kill -9).",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
