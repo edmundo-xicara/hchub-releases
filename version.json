@@ -1,7 +1,7 @@
 {
-  "version": "0.5.44",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.44/hchub-0.5.44.zip",
-  "notes": "Corrige auto-update/reverter travados ao fechar Premiere (force-quit + lock órfão).",
+  "version": "0.5.45",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.45/hchub-0.5.45.zip",
+  "notes": "Fecha o Premiere com mais calma no atualizar/reverter e evita a janela falsa de crash.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
