@@ -1,7 +1,7 @@
 {
-  "version": "0.5.53",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.53/hchub-0.5.53.zip",
-  "notes": "Janela de progresso abre já em “Fechando Premiere…”; instala só depois.",
+  "version": "0.5.54",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.54/hchub-0.5.54.zip",
+  "notes": "Janela de atualização fica sempre à frente enquanto o Premiere fecha.",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
