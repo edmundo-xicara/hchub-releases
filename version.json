@@ -1,7 +1,7 @@
 {
-  "version": "0.5.43",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.43/hchub-0.5.43.zip",
-  "notes": "Botão Reverter para última versão (baixa a release anterior no GitHub).",
+  "version": "0.5.44",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.44/hchub-0.5.44.zip",
+  "notes": "Corrige auto-update/reverter travados ao fechar Premiere (force-quit + lock órfão).",
   "minPremiere": "25.6.0",
   "publishedAt": "2026-08-27"
 }
