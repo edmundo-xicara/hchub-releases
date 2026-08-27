@@ -1,7 +1,7 @@
 {
-  "version": "0.5.37",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.37/hchub-0.5.37.zip",
-  "notes": "Mac: auto-update usa watcher + run-update-mac.command (corrige .bat errado).",
+  "version": "0.5.38",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.38/hchub-0.5.38.zip",
+  "notes": "Auto-update: alerta de reinício + fecha/reabre Premiere automaticamente (sem Terminal).",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-08-26"
+  "publishedAt": "2026-08-27"
 }
