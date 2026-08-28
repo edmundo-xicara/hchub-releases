@@ -1,7 +1,7 @@
 {
-  "version": "0.5.55",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.55/hchub-0.5.55.zip",
-  "notes": "Atalhos laranja no Hub e efeitos de áudio do CutPilot no clipe selecionado.",
+  "version": "0.5.56",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.56/hchub-0.5.56.zip",
+  "notes": "Windows: atualização com janela de progresso (fecha e reabre o Premiere), plugin volta a aparecer no menu UXP, terminais ocultos no instalador.",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-08-27"
+  "publishedAt": "2026-08-28"
 }
