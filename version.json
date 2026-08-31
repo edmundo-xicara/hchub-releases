@@ -1,7 +1,7 @@
 {
-  "version": "0.5.56",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.56/hchub-0.5.56.zip",
-  "notes": "Windows: atualização com janela de progresso (fecha e reabre o Premiere), plugin volta a aparecer no menu UXP, terminais ocultos no instalador.",
+  "version": "0.5.57",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.57/hchub-0.5.57.zip",
+  "notes": "Corrige Autostart no Mac (install_mac.sh com aspas quebradas).",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-08-28"
+  "publishedAt": "2026-08-31"
 }
