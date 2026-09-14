@@ -1,7 +1,7 @@
 {
-  "version": "0.5.57",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.57/hchub-0.5.57.zip",
-  "notes": "Corrige Autostart no Mac (install_mac.sh com aspas quebradas).",
+  "version": "0.5.59",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.59/hchub-0.5.59.zip",
+  "notes": "Corrige o loop de auto-update no Windows (vários instaladores em paralelo) e segura o blur da placa quando alguém passa na frente.",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-08-31"
+  "publishedAt": "2026-09-14"
 }
