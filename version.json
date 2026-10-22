@@ -1,7 +1,7 @@
 {
-  "version": "0.5.59",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.59/hchub-0.5.59.zip",
-  "notes": "Corrige o loop de auto-update no Windows (vários instaladores em paralelo) e segura o blur da placa quando alguém passa na frente.",
+  "version": "0.5.60",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.60/hchub-0.5.60.zip",
+  "notes": "O Skip Silence abre no visualizador, analisa o clipe ao entrar e ajusta duração, suavidade e limiar por slider.",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-09-14"
+  "publishedAt": "2026-10-22"
 }
