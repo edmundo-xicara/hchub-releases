@@ -1,7 +1,7 @@
 {
-  "version": "0.5.60",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.60/hchub-0.5.60.zip",
-  "notes": "O Skip Silence abre no visualizador, analisa o clipe ao entrar e ajusta duração, suavidade e limiar por slider.",
+  "version": "0.5.61",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.61/hchub-0.5.61.zip",
+  "notes": "Corrige a atualização no Windows: o terminal encontrava 'nenhuma atualização pendente' mesmo com versão nova no painel.",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-10-22"
+  "publishedAt": "2026-10-29"
 }
