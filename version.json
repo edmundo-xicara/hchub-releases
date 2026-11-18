@@ -1,7 +1,7 @@
 {
-  "version": "0.5.61",
-  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.61/hchub-0.5.61.zip",
-  "notes": "Corrige a atualização no Windows: o terminal encontrava 'nenhuma atualização pendente' mesmo com versão nova no painel.",
+  "version": "0.5.62",
+  "downloadUrl": "https://github.com/edmundo-xicara/hchub-releases/releases/download/v0.5.62/hchub-0.5.62.zip",
+  "notes": "HC Review agora usa o Flux de produção (fluxhc.netlify.app). Cada editor precisa entrar de novo no painel com o e-mail e a senha do Flux de produção.",
   "minPremiere": "25.6.0",
-  "publishedAt": "2026-10-29"
+  "publishedAt": "2026-11-13"
 }
